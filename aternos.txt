@@ -1,0 +1,3 @@
+ip : PsycoSmp.aternos.me
+port:15817
+name GUU
